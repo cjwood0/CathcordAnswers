@@ -1,6 +1,6 @@
 # CathcordAnswers
 
-Monitoring Cathcord Answers
+Monitoring the Catholicism discord server's #Answers channel, created at the reuqest of a mod.
 
 ---
 
